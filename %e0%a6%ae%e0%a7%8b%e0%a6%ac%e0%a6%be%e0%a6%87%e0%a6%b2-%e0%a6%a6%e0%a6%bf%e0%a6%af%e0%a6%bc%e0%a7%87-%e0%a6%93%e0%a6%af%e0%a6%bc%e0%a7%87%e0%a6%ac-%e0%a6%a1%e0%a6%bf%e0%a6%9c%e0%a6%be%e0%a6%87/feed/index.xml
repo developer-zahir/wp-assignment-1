@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: মোবাইল দিয়ে ওয়েব ডিজাইন!	</title>
+	<atom:link href="./../../%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AC-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A DIGITAL IT EDUCATION PLATFORM</description>
+	<lastBuildDate>Fri, 16 Jul 2021 19:27:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: MD Zahirul Islam		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[MD Zahirul Islam]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 16:40:04 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/LFWF/?p=324#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-3&quot;&gt;MD Zahirul Islam&lt;/a&gt;.
+
+ok]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-3">MD Zahirul Islam</a>.</p>
+<p>ok</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: MD Zahirul Islam		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[MD Zahirul Islam]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 16:39:44 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/LFWF/?p=324#comment-3</guid>
+
+					<description><![CDATA[test comment]]></description>
+			<content:encoded><![CDATA[<p>test comment</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
